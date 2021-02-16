@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  color:#383e56;
+}
+.top-container{
+  background-color:#E4F9F5;
+}
+h1:hover{
+ color: #66BFBF;
+}
+h2:hover{
+ color: #66BFBF;
+}
+h3:hover{
+ color: #66BFBF;
+ font-family: 'acme-regular';
+}
+.img3{
+  position: relative;
+  top: 20px;
+}
+
+  hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+  border-color: grey;
+  margin-top: 80px;
+  text-align: center;
+}
+.design{
+  float: left;
+}
+.skills{
+  align-content: center;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+.contact-me{
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+p:hover{
+  line-height: 2;
+color: red;
+}
+.bottom-container{
+  background-color: #66BFBF;
+
+}
